@@ -11,7 +11,7 @@
     "test-watch": "NODE_ENV=test mocha --timeout 3000 tests --watch --reporter=min"
   },
   "dependencies": {
-    "@babel/core": "^7.16.0",
+    "@babel/core": "^7.23.6",
     "autoprefixer": "^10.4.0",
     "babel-loader": "^8.2.3",
     "body-parser": "^1.19.0",
