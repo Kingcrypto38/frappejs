@@ -38,7 +38,7 @@
     "sass-loader": "^12.3.0",
     "socket.io": "^4.3.1",
     "sqlite3": "npm:@vscode/sqlite3@^5.0.7",
-    "tailwindcss": "^2.2.19",
+    "tailwindcss": "^4.0.0",
     "vue": "^2.6.10",
     "vue-flatpickr-component": "^9.0.5",
     "vue-loader": "^15.9.8",
